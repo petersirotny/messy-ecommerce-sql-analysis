@@ -57,7 +57,7 @@ This project answers the following business and data-quality questions:
 
 ## Project Structure
 
-text
+```text
 messy-ecommerce-sql-analysis
 │
 ├─ data
@@ -67,6 +67,7 @@ messy-ecommerce-sql-analysis
 │  └─ analysis.sql
 │
 └─ README.md
+```
 
 ## Purpose
 
